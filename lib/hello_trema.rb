@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World
 class HelloTrema < Trema::Controller
   def start(_args)
     logger.info "#{self.name} started."
